@@ -30,7 +30,7 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
-  - course: MSc 
+  - course: MSc
     institution: University of Crete
     year: 2019-until now
   - course: BSc in Computer Science
@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/XanthakisGeorge
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=jIQx1JoAAAAJ&hl=el
 - icon: github
   icon_pack: fab
   link: https://github.com/innerout
@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am an MSc Student in the [Computer Science department](https://www.csd.uoc.gr/) at the [University of Crete](http://www.uoc.gr/) working with 
+I am an MSc Student in the [Computer Science department](https://www.csd.uoc.gr/) at the [University of Crete](http://www.uoc.gr/) working with
 [Prof. Angelos Bilas](http://users.ics.forth.gr/~bilas/home/Angelos_Bilas.html). I am also a graduate research assistant in the [Institute of Computer Science (ICS)](https://www.ics.forth.gr/) at the [Foundation of Research and Technology --- Hellas(FORTH)](https://www.forth.gr/). I received my Bachelors degree in [Computer Science from University of Crete](https://www.csd.uoc.gr/) in 2019.
